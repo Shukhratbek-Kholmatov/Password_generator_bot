@@ -1,2 +1,5 @@
-# Password_generator_bot
-Password generator bot
+🇺🇿Parol generatsiya qilib beradigan bot.
+Kutubxona=pyTelegramBotAPI.
+
+🇬🇧Bot which generates password.
+Library=pyTelegramBotAPI.
